@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My Project Fity.at & flowxtra.com <br>🌱 I’m currently learning Chatterbot Ai 3.5 Turbo & Arduino PCB  & ESB32 programming 🤖.<br>📫 How to reach me : me@alarade.at<br>👨‍💻 All of my projects are available at : Dpro.at<br><br>
+🔭 <p>My Project <a href="https://fity.at" target="_blank">Fity.at</a> &amp; <a href="https://flowxtra.com" target="_blank">Flowxtra.com</a></p><br>🌱 I’m currently learning Chatterbot Ai 3.5 Turbo & Arduino PCB  & ESB32 programming 🤖.<br>📫 How to reach me : me@alarade.at<br>👨‍💻 All of my projects are available at : Dpro.at<br><br>
 
 
 ## 🌐 Socials:
