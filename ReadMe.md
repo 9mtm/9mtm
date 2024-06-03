@@ -12,8 +12,6 @@
 - CTO [die Berater Unternehmensberatung](https://dieberater.com)
 <br>
 <br>
-<br>
-
 - 🌱 I’m currently learning **LLaMA LLM & Arduino PCB & ESB32 programming 🤖.**
 
 
