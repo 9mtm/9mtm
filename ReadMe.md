@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alarade</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working CTO on 
+- 🔭 I’m currently working On
 
 - Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
 - Founder & CTO [Fity GmbH](https://fity.at)
