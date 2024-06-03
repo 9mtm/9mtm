@@ -3,9 +3,9 @@
 --------------------------------------------------------------------------------------
 - 🔭 I’m currently working On
 
-- Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
-- Founder & CTO [Fity GmbH](https://fity.at)
 - Founder & CTO [Dpro.at](https://dpro.at)
+- Founder & CTO [Fity GmbH](https://fity.at)
+- Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
 - CTO [die Berater Unternehmensberatung](https://dieberater.com)
 --------------------------------------------------------------------------------------
 
