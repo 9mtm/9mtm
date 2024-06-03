@@ -7,7 +7,6 @@
 - Founder & CTO [Fity GmbH](https://fity.at)
 - Founder & CTO [Dpro.at](https://dpro.at)
 - CTO [die Berater Unternehmensberatung](https://dieberater.com)
-- 
 --------------------------------------------------------------------------------------
 
 - 🌱 I’m currently learning **LLaMA LLM & Arduino PCB & ESB32 programming 🤖.**
