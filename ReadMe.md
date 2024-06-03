@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alarade</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🔭 I’m currently working CTO on [die Berater Unternehmensberatung](https://dieberater.com)
+- 🔭 I’m currently working CTO on 
+
+- Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
+- Founder & CTO [Fity GmbH](https://fity.at)
+- Founder & CTO [Dpro.at](https://dpro.at)
+- CTO [die Berater Unternehmensberatung](https://dieberater.com)
 
 - 🌱 I’m currently learning **LLaMA LLM & Arduino PCB & ESB32 programming 🤖.**
 
-- Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
-
-- Founder & CTO [Fity GmbH](https://fity.at)
 
 - 👨‍💻 All of my projects are available at [https://dpro.at](https://dpro.at)
 
