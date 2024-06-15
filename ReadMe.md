@@ -4,7 +4,7 @@
 
 🔭 I’m currently working On
 
-- Founder & CTO [Dpro.at](https://dpro.at)
+- Founder & CTO [Dpro GmbH](https://dpro.at)
 - Founder & CTO [Fity GmbH](https://fity.at)
 - Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
 - Development partner [Praxta GmbH](https://praxta.at)
