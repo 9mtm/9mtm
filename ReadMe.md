@@ -8,7 +8,7 @@
 - Founder & CTO [Fity GmbH](https://fity.at)
 - Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
 - Development partner [Praxta GmbH](https://praxta.at)
-- CTO [die Berater Unternehmensberatung](https://dieberater.com)
+- - [die Berater Unternehmensberatung](https://dieberater.com)
 <br>
 
 - 🌱 I’m currently learning **LLaMA LLM & Arduino PCB & ESB32 programming 🤖.**
