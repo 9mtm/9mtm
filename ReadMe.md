@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **PHP, MySQL, server management, and Flutter**
 
-- 📫 How to reach me **me@alarade.at**
+- 📫 How to reach me **m.alarade@dpro.at**
 
 - 📄 Know about my experiences [https://alarade.at](https://alarade.at)
 
