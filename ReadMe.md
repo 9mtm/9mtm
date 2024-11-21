@@ -11,9 +11,6 @@
 - Full-Stack Developer - [die Berater Unternehmensberatung](https://dieberater.com)
 <br>
 
-- 🌱 I’m currently learning **LLaMA LLM & Arduino PCB & ESB32 programming 🤖.**
-
-
 - 👨‍💻 All of my projects are available at [https://dpro.at](https://dpro.at)
 
 - 📝 I regularly write articles on [https://dpro.at/blog](https://dpro.at/blog)
