@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohamed Alarade</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Alarade</h1> [![wakatime](https://wakatime.com/badge/user/a2969f83-019c-4d5b-8223-aee575764ec6.svg)](https://wakatime.com/@a2969f83-019c-4d5b-8223-aee575764ec6)
+
 <h3 align="center">Full-Stack Developer</h3>
 <br>
 
@@ -11,7 +12,6 @@
 - Full-Stack Developer - [die Berater Unternehmensberatung](https://dieberater.com)
 <br>
 
-[![wakatime](https://wakatime.com/badge/user/a2969f83-019c-4d5b-8223-aee575764ec6.svg)](https://wakatime.com/@a2969f83-019c-4d5b-8223-aee575764ec6)
 
 - 👨‍💻 All of my projects are available at [https://dpro.at](https://dpro.at)
 
