@@ -19,7 +19,6 @@
 
 - 📫 How to reach me **m.alarade@dpro.at**
 
-[![wakatime](https://wakatime.com/badge/user/a2969f83-019c-4d5b-8223-aee575764ec6.svg)](https://wakatime.com/@a2969f83-019c-4d5b-8223-aee575764ec6)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/9mtm) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/9mtm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/9mtm) [![wakatime](https://wakatime.com/badge/user/a2969f83-019c-4d5b-8223-aee575764ec6.svg)](https://wakatime.com/@a2969f83-019c-4d5b-8223-aee575764ec6) 
