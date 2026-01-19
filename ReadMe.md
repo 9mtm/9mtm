@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://dpro.at/blog](https://dpro.at/blog)
 
-- 💬 Ask me about **PHP, MySQL, server management, and Flutter**
+- 💬 Ask me about **PHP, MySQL, server management, and Flutter & Security Server** 
 
 - 📫 How to reach me **m.alarade@dpro.at**
 
