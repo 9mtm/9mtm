@@ -3,7 +3,7 @@
 <br>
 🔭 I’m currently working On
 
-- Founder & Owner [Dpro GmbH](https://dpro.at)
+- Owner [Dpro GmbH](https://dpro.at)
 - Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
 <br>
 
