@@ -11,9 +11,7 @@
 <br>
 
 
-- 👨‍💻 All of my projects are available at [https://dpro.at](https://dpro.at)
-
-- 📝 I regularly write articles on [https://dpro.at/blog](https://dpro.at/blog)
+- 👨‍💻 not All of my projects are available at [https://dpro.at](https://dpro.at) :))
 
 - 💬 Ask me about **PHP, MySQL, server management, and Flutter & Security Server** 
 
