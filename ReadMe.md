@@ -4,7 +4,6 @@
 🔭 I’m currently working On
 
 - Founder & Owner [Dpro GmbH](https://dpro.at)
-- Founder & CTO [Fity GmbH](https://fity.at)
 - Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
 - Development partner [Praxta GmbH](https://praxta.at)
 - Full-Stack Developer - [die Berater Unternehmensberatung](https://dieberater.com)
