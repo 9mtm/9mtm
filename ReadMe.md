@@ -8,12 +8,6 @@
 - Agent Player [Dpro](https://agent-player.com)
 
 <br>
-
-
-- 👨‍💻 not All of my projects are available at [https://dpro.at](https://dpro.at) :))
-
-- 💬 Ask me about **PHP, MySQL, server management, and Flutter & Security Server** 
-
 - 📫 How to reach me **m.alarade@dpro.at**
 
 
