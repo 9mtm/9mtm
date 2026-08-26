@@ -5,7 +5,6 @@
 
  [Dpro GmbH](https://dpro.at)
  [Flowxtra GmbH](https://flowxtra.com)
-- Agent Player [Dpro](https://agent-player.com)
 
 
 <br>
