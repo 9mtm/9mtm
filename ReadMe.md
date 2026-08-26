@@ -3,9 +3,10 @@
 <br>
 🔭 I’m currently working On
 
-- Owner [Dpro GmbH](https://dpro.at)
-- Founder & CTO [Flowxtra GmbH](https://flowxtra.com)
+ [Dpro GmbH](https://dpro.at)
+ [Flowxtra GmbH](https://flowxtra.com)
 - Agent Player [Dpro](https://agent-player.com)
+
 
 <br>
 - 📫 How to reach me **m.alarade@dpro.at**
