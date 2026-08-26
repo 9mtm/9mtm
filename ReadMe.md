@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alarade</h1> 
 <h3 align="center">Full-Stack Developer</h3>
 <br>
-🔭 I’m currently working On
-
  [Dpro GmbH](https://dpro.at)
  [Flowxtra GmbH](https://flowxtra.com)
 
