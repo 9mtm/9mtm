@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://dpro.at"><img src="https://img.shields.io/badge/Dpro%20GmbH-0A66C2?style=for-the-badge&logoColor=white" alt="Dpro GmbH"></a>
-  <a href="https://flowxtra.com"><img src="https://img.shields.io/badge/Flowxtra%20GmbH-6C47FF?style=for-the-badge&logoColor=white" alt="Flowxtra GmbH"></a>
   <a href="mailto:m.alarade@dpro.at"><img src="https://img.shields.io/badge/m.alarade@dpro.at-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
