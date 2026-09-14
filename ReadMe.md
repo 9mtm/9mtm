@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alarade</h1>
-<h3 align="center">Full-Stack Developer · Building at Dpro</h3>
 
 <p align="center">
   <a href="https://dpro.at"><img src="https://img.shields.io/badge/Dpro%20GmbH-0A66C2?style=for-the-badge&logoColor=white" alt="Dpro GmbH"></a>
@@ -10,11 +9,12 @@
 
 ### 👨‍💻 About me
 
-- 🏢 Full-Stack & AI Agent Developer
+- 🏢 Full-Stack & AI Agent Developer — freelancing at Dpro GmbH
 - 🚀 Currently building **Tel-Agent** — open-source AI phone gateway
 - 🌱 Deep-diving into **AI agents, LLM tooling and edge infrastructure**
 - 💬 Ask me about **TypeScript, Python, LLMs, Next.js, PHP/Laravel, and Cloudflare Workers**
 - 📫 Reach me at **m.alarade@dpro.at**
+- 📍 Vienna, Austria
 
 ---
 
