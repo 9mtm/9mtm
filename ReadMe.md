@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Alarade</h1>
-<h3 align="center">Full-Stack Developer · Building products at Dpro & Flowxtra</h3>
+<h3 align="center">Full-Stack Developer · Building at Dpro</h3>
 
 <p align="center">
   <a href="https://dpro.at"><img src="https://img.shields.io/badge/Dpro%20GmbH-0A66C2?style=for-the-badge&logoColor=white" alt="Dpro GmbH"></a>
@@ -10,10 +10,10 @@
 
 ### 👨‍💻 About me
 
-- 🏢 Full-Stack Developer 
-- 🚀 Currently building **Tel-Agent** — Agent player
+- 🏢 Full-Stack & AI Agent Developer
+- 🚀 Currently building **Tel-Agent** — open-source AI phone gateway
 - 🌱 Deep-diving into **AI agents, LLM tooling and edge infrastructure**
-- 💬 Ask me about **TypeScript,LLM,Py, Next.js, PHP/Laravel, and Cloudflare Workers**
+- 💬 Ask me about **TypeScript, Python, LLMs, Next.js, PHP/Laravel, and Cloudflare Workers**
 - 📫 Reach me at **m.alarade@dpro.at**
 
 ---
@@ -31,13 +31,6 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=9mtm&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
-
-<!-- Self-host github-readme-stats on your own Vercel, then uncomment and swap the domain:
-<p align="center">
-  <img height="165" src="https://YOUR-DEPLOY.vercel.app/api?username=9mtm&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://YOUR-DEPLOY.vercel.app/api/top-langs/?username=9mtm&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages">
-</p>
--->
 
 ---
 
