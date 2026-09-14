@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About me
 
-- 🏢 Full-Stack Developer at **[Dpro GmbH](https://dpro.at)** and **[Flowxtra GmbH](https://flowxtra.com)**
+- 🏢 Full-Stack Developer 
 - 🚀 Currently building **Tel-Agent** — an open-source (AGPL) AI agent platform
 - 🌱 Deep-diving into **AI agents, LLM tooling and edge infrastructure**
 - 💬 Ask me about **TypeScript, Next.js, PHP/Laravel, and Cloudflare Workers**
