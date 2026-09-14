@@ -12,9 +12,9 @@
 ### 👨‍💻 About me
 
 - 🏢 Full-Stack Developer 
-- 🚀 Currently building **Tel-Agent** — an open-source (AGPL) AI agent platform
+- 🚀 Currently building **Tel-Agent** — Agent player
 - 🌱 Deep-diving into **AI agents, LLM tooling and edge infrastructure**
-- 💬 Ask me about **TypeScript, Next.js, PHP/Laravel, and Cloudflare Workers**
+- 💬 Ask me about **TypeScript,LLM,Py, Next.js, PHP/Laravel, and Cloudflare Workers**
 - 📫 Reach me at **m.alarade@dpro.at**
 
 ---
